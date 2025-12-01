@@ -11,6 +11,7 @@
 ## 🌟 Aperçu
 
 Cette application est une refonte complète du tableau périodique classique. Elle offre une expérience utilisateur fluide ("Fit-to-screen"), sans défilement inutile, et s'adapte à toutes les tailles d'écran. Chaque élément est interactif et révèle des détails approfondis, des configurations électroniques précises et des représentations chimiques en LaTeX.
+<img width="1393" height="773" alt="{4C41A390-0306-4882-A6BC-B4145D182AE4}" src="https://github.com/user-attachments/assets/4d3c5334-a63a-44e9-8e80-6fef524deff5" />
 
 ---
 
